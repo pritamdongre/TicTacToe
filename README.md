@@ -1,2 +1,3 @@
 # TicTacToe
-Learning Project
+Learning Project 
+Technology used: HTML, CSS, JS.
