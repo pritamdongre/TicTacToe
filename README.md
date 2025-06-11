@@ -3,7 +3,7 @@
 <br>
 <strong>Technology Stack:</strong> HTML5, CSS3, Javascript. 
 <br>
-<strong>Description :</strong> This Web application allows to players to play the game.<br> HTML is used to author the web page.<br> CSS3 is used for styling and responsiveness.<br> Main budiness logic is written in javascript.
+<strong>Description :</strong> This Web application allows two players to play the game.<br> HTML is used to author the web page.<br> CSS3 is used for styling and responsiveness.<br> Main budiness logic is written in javascript.
 <br> 
 <h3>Features</h3>
 <ul>
