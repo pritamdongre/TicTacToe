@@ -1,4 +1,5 @@
 # Tic Tac Toe
+<hr>
 <strong>Objective :</strong> Learning Project  
 <br>
 <strong>Technology Stack:</strong> HTML5, CSS3, Javascript. 
